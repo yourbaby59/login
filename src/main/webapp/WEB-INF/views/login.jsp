@@ -8,7 +8,6 @@
      margin:auto;
      margin-top:100px;
      text-align:center;
-     
    }
    input[type=text], input[type=password] {
      width:400px;
